@@ -32,7 +32,6 @@
             android:layout_below="@id/nav_drawer_header_include"
                       android:id="@+id/channel_list"
 
-
             ></ListView>
         </RelativeLayout>
             </android.support.design.widget.NavigationView>
